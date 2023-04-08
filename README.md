@@ -1,3 +1,3 @@
 ## Привет 👋
-1. [https://github.com/ZadireyEvgeny/python](python)
-2. [https://github.com/ZadireyEvgeny/os_labs](os_labs)
+1. [python](https://github.com/ZadireyEvgeny/python)
+2. [os_labs]([os_labs](https://github.com/ZadireyEvgeny/os_labs))
