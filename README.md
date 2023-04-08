@@ -12,8 +12,7 @@
 <div align="right"><h5><a href="https://github.com/ZadireyEvgeny/os_labs" >os_labs</a></h5></div>
 </b></details>
 <details>
-<summary> Достижения </summary><br><b>
-Простите но у этого человека их нет
-</b></details>
+<summary> Достижения </summary><br>
+  <b align="center">Простите но у этого человека их нет</b></details>
 
 
