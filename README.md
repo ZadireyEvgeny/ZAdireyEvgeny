@@ -29,7 +29,7 @@
 <details><summary>Найти</summary><br><div align="center"><b>
   <div id="badges">
   <a href="https://vk.com/id638229376">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="vk"/>
   </a>
   </div>
 </b></details></div>
