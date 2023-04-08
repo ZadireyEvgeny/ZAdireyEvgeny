@@ -4,14 +4,14 @@
 <h1 align="center">
   Привет 👋
 </h1>
-<h3 align="center">
+<h2 align="center">
   Выбирай тему которая тебе интересна
-</h3>
-<h4
+</h2>
+<h3>
   <div><a href="https://github.com/ZadireyEvgeny/Python" >PythonTasks</a></div>
   <div align="center"><a href="https://github.com/ZadireyEvgeny/os_labs" >os_labs</a></div>
   <div align="right"><a href="https://github.com/ZadireyEvgeny/project" >project</a></div>
-</h4>
+</h3>
 <br>
 <br>
 <br>
