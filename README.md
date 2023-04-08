@@ -8,7 +8,7 @@
   Выбирай тему которая тебе интересна
 </h2>
 <h3>
-  <a href="https://github.com/ZadireyEvgeny/Python" target="_blank"><img src="python_horizontal_logo_icon_169825.svg" alt="The Unlimited" width="120"/></a>
+  <a href="https://github.com/ZadireyEvgeny/Python" target="_blank"><img src="python_horizontal_logo_icon_169825.svg" alt="The Unlimited" width="140"/></a>
   <div align="center"><a href="https://github.com/ZadireyEvgeny/os_labs" >os_labs</a></div>
   <div align="right"><a href="https://github.com/ZadireyEvgeny/project" >project</a></div>
 </h3>
