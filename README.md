@@ -9,5 +9,5 @@
 </h3>
 <a href="https://github.com/ZadireyEvgeny/Python" >PythonTasks</a> 
 <def align="center">
-<a href="https://github.com/ZadireyEvgeny/os_labs">os_labs</a>
+  <a href="https://github.com/ZadireyEvgeny/os_labs">os_labs</a>
 </def>
