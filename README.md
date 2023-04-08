@@ -13,6 +13,6 @@
 </b></details>
 <details>
 <summary> Достижения </summary><br>
-  <b align="center">Простите но у этого человека их нет</b></details>
+  <div align="center"><b>Простите но у этого человека их нет</b></details></div>
 
 
