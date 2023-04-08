@@ -28,10 +28,12 @@
 <br>
 <details><summary>Найти</summary><br><div align="center"><b>
   <div id="badges">
+  <a href="https://t.me/ZadireyEvgeny" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"/>
+  </a>
   <a href="https://vk.com/id638229376" target="_blank">
     <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="vk"/>
   </a>
   </div>
 </b></details></div>
 <details><summary>Достижения</summary><br><div align="center"><b>Простите но у этого человека их нет</b></details></div>
-
