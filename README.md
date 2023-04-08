@@ -12,9 +12,8 @@
 <div align="right"><h5><a href="https://github.com/ZadireyEvgeny/os_labs" >os_labs</a></h5></div>
 </b></details>
 <details>
-<summary> Название Вашего скрытого текста </summary><br><b>
-
-Здесь размещается Вашт скрытый текст
+<summary> Достижения </summary><br><b>
+Простите но у этого человека их нет
 </b></details>
 
 
