@@ -7,4 +7,4 @@
 <h3 align="center">
   Выбирай тему которая тебе интересна
 </h3>
-<a href="https://github.com/ZadireyEvgeny/Python" >PythonTasks</a> <a href="https://github.com/ZadireyEvgeny/os_labs">os_labs</a>
+<a href="https://github.com/ZadireyEvgeny/Python" >PythonTasks</a> <a href="https://github.com/ZadireyEvgeny/os_labs" align="center">os_labs</a>
