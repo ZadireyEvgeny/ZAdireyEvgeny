@@ -7,13 +7,11 @@
 <h2 align="center">
   Выбирай тему которая тебе интересна
 </h2>
-<h4>
   <div align="center">
     <a href="https://github.com/ZadireyEvgeny/Python" ><img src="python_horizontal_logo_icon_169825.svg" alt="python" style="float:left"/></a>
     <a href="https://github.com/ZadireyEvgeny/os_labs" ><img src="ubuntu_logo_icon_168375.svg" alt="ubuntu"/></a>
     <a href="https://github.com/ZadireyEvgeny/project" ><img src="r_project_logo_icon_169810.svg" alt="project" style="float:right" /></a>
   </div>
-</h4>
 <br>
 <br>
 <br>
