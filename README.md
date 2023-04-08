@@ -7,5 +7,5 @@
 </h1>
 <a href="https://github.com/ZadireyEvgeny/Python">PythonTasks</a>
 <a href="https://github.com/ZadireyEvgeny/os_labs">os_labs</a>
-[os_labs](https://github.com/ZadireyEvgeny/os_labs)
+1. [os_labs](https://github.com/ZadireyEvgeny/os_labs)
 
