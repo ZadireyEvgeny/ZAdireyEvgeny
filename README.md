@@ -24,8 +24,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 </b></details></div>
 <details><summary>Достижения</summary><br><div align="center"><b>Простите но у этого человека их нет</b></details></div>
 <details><summary>Найти</summary><br><div align="center"><b>
