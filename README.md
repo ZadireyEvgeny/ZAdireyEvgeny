@@ -28,6 +28,9 @@
 <br>
 <details><summary>Найти</summary><br><div align="center"><b>
   <div id="badges">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"/>
+  </a>
   <a href="https://t.me/ZadireyEvgeny" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"/>
   </a>
