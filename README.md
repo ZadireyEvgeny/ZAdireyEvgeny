@@ -2,9 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-    Привет 👋
-    Выбирай тему которая тебе интересна
+  <h1>Привет 👋</h1> /br
+  <h3>Выбирай тему которая тебе интересна</h3>
 </h1>
 <a href="https://github.com/ZadireyEvgeny/Python">PythonTasks</a>
-<a href="https://github.com/ZadireyEvgeny/os_labs" align="center">os_labs</a>
-
+<a href="https://github.com/ZadireyEvgeny/os_labs">os_labs</a>
