@@ -9,12 +9,12 @@
 </h2>
 <h4>
   <div align="center">
-    <a href="https://github.com/ZadireyEvgeny/Python" ><img src="python_horizontal_logo_icon_169825.svg" alt="python" style="float:left"/></a>
-    <a href="https://github.com/ZadireyEvgeny/os_labs" ><img src="ubuntu_logo_icon_168375.svg" alt="ubuntu"/></a>
-    <a href="https://github.com/ZadireyEvgeny/project" ><img src="r_project_logo_icon_169810.svg" alt="project" style="float:right" /></a>
+    <a href="https://github.com/ZadireyEvgeny/Python" ><img src="python_horizontal_logo_icon_169825.svg" style="float:left"/></a>
+    <a href="https://github.com/ZadireyEvgeny/os_labs" ><img src="ubuntu_logo_icon_168375.svg"/></a>
+    <a href="https://github.com/ZadireyEvgeny/project" ><img src="r_project_logo_icon_169810.svg" style="float:right" /></a>
   </div>
 </h4>
-<a href="#"><img src="fon.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=idjT32-cDFc"><img src="fon.jpg"/></a>
 </b></details></div>
 <details><summary>Достижения</summary><br><div align="center"><b>Простите но у этого человека их нет</b></details></div>
 <details><summary>Найти</summary><br><div align="center"><b>
