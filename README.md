@@ -19,7 +19,7 @@
 <details><summary>Достижения</summary><br><div align="center"><b>Простите но у этого человека их нет</b></details></div>
 <details><summary>Найти</summary><br><div align="center"><b>
   <div id="badges">
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/evgenyzadirey/?igshid=ZDdkNTZiNTM%3D" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"/>
   </a>
   <a href="https://t.me/ZadireyEvgeny" target="_blank">
