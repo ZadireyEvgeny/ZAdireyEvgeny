@@ -14,7 +14,7 @@
     <a href="https://github.com/ZadireyEvgeny/project" ><img src="r_project_logo_icon_169810.svg" alt="project" style="float:right" /></a>
   </div>
 </h4>
-<img src="fon.jpg" alt="fon"/>
+<img src="fon.jpg"/>
 </b></details></div>
 <details><summary>Достижения</summary><br><div align="center"><b>Простите но у этого человека их нет</b></details></div>
 <details><summary>Найти</summary><br><div align="center"><b>
